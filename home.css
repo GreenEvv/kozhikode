@@ -1,0 +1,13 @@
+.nav {
+    background-color: #fa4973 ;
+    
+}
+.nav t{
+    color:black;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.gify{
+    padding-left: 100px;
+    padding-top: 30px;
+}
